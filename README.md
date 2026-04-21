@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Hola,%20soy%20Rubén&fontSize=70" alt="Banner Rubén" />
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=200&section=header&text=Hola,%20soy%20Rubén&fontSize=70" alt="Banner Rubén" />
 </p>
 
 <p align="center">
