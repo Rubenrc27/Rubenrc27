@@ -13,17 +13,3 @@
   </a>
 </p>
 
----
-
-## 🔝 Mis Repositorios Principales
-
-> *Para esta sección, puedes copiar manualmente la información de tus repositorios favoritos o usar un generador automático.*
-
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tu_usuario_aqui&repo=nombre_de_tu_repositorio_destacado_1&theme=nord" alt="Repositorio destacado" />
-  </a>
-  &nbsp;&nbsp; <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tu_usuario_aqui&repo=nombre_de_tu_repositorio_destacado_2&theme=nord" alt="Repositorio destacado" />
-  </a>
-</p>
