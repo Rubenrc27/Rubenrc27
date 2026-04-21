@@ -42,10 +42,3 @@
 </p>
 
 ---
-
-## 📁 Proyectos Destacados
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rubenrc27&repo=core&theme=nord" alt="Proyecto 1" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rubenrc27&repo=bolt-extension-html5-audio&theme=nord" alt="Proyecto 2" />
-</p>
