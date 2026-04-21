@@ -22,10 +22,6 @@
   </a>
 </p>
 
-<p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rubenrc27&theme=nord&hide_border=true" alt="GitHub Streak Rubenrc27" />
-</p>
-
 ---
 
 ## 🐍 Mi "Snake" de contribuciones
