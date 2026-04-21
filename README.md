@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=shark&color=auto&height=200&section=header&text=Hola,%20soy%20Rubén&fontSize=70)
+![Banner](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Hola,%20soy%20Rubén&fontSize=70)
 
 ## 📊 Mis Estadísticas de GitHub
 
