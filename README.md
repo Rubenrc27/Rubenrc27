@@ -1,5 +1,3 @@
-# 👋 ¡Hola, soy Rubén!
-
 ## 📊 Mis Estadísticas de GitHub
 
 <p align="left">
