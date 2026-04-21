@@ -8,6 +8,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rubenrc27&layout=compact&theme=nord" alt="Lenguajes más usados de Rubenrc27" />
   </a>
 </p>
+
 ## 🐍 Mi "Snake" de contribuciones
 
 ![Snake animation](https://raw.githubusercontent.com/Rubenrc27/Rubenrc27/output/github-snake-dark.svg)
