@@ -13,4 +13,4 @@
 
 ![Snake animation](https://raw.githubusercontent.com/Rubenrc27/Rubenrc27/output/github-snake-dark.svg)
 
-[![Tus Trofeos](https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Tus Trofeos](https://github-profile-trophy.vercel.app/?username=Rubenrc27&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
