@@ -1,4 +1,14 @@
-![Banner](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Hola,%20soy%20Rubén&fontSize=70)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Hola,%20soy%20Rubén&fontSize=70" alt="Banner Rubén" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=88C0D0&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;Entusiasta+de+la+IA;Aprendiendo+cosas+nuevas+cada+día" alt="Typing SVG" />
+  </a>
+</p>
+
+---
 
 ## 📊 Mis Estadísticas de GitHub
 
@@ -6,18 +16,40 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rubenrc27&show_icons=true&include_all_commits=true&theme=nord" alt="Estadísticas de Rubenrc27" />
   </a>
-  &nbsp;&nbsp; <a href="https://github.com/anuraghazra/github-readme-stats">
+  &nbsp;&nbsp;
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rubenrc27&layout=compact&theme=nord" alt="Lenguajes más usados de Rubenrc27" />
   </a>
 </p>
 
+<p align="left">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rubenrc27&theme=nord&hide_border=true" alt="GitHub Streak Rubenrc27" />
+</p>
+
+---
+
 ## 🐍 Mi "Snake" de contribuciones
 
-![Snake animation](https://raw.githubusercontent.com/Rubenrc27/Rubenrc27/output/github-snake-dark.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rubenrc27/Rubenrc27/output/github-snake-dark.svg" alt="Animación de la Serpiente" />
+</p>
+
+---
 
 ### 🛠️ Tecnologías que utilizo:
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+---
+
+## 📁 Proyectos Destacados
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rubenrc27&repo=core&theme=nord" alt="Proyecto 1" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rubenrc27&repo=bolt-extension-html5-audio&theme=nord" alt="Proyecto 2" />
+</p>
