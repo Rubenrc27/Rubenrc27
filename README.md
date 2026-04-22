@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Hola,%20soy%20Rubén&fontSize=70" alt="Banner Rubén" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Hola,%20soy%20Rubén&fontSize=70" alt="Banner Rubén" /> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXJueXZueXJueXZueXJueXZueXJueXZueXJueXZueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1TVr9WvYgUL7V8m/giphy.gif" width="35">
 </p>
 
 <p align="center">
