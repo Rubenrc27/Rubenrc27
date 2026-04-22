@@ -42,6 +42,4 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXJueXZueXJueXZueXJueXZueXJueXZueXJueXZueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1TVr9WvYgUL7V8m/giphy.gif" width="200">
-</p>
+
