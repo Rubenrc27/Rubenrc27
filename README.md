@@ -14,7 +14,7 @@
 
 <!-- 3D Contribution Calendar -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rubenrc27/Rubenrc27/main/profile-3d-contrib/profile-gitblock.svg" alt="3D Contribution Calendar"/>
+  <img src="https://raw.githubusercontent.com/Rubenrc27/Rubenrc27/main/profile-3d-contrib/profile-season.svg" alt="3D Contribution Calendar"/>
 </p>
 
 ---
