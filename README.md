@@ -19,8 +19,6 @@
 
 ---
 
-## 🐍 Mi "Snake" de contribuciones
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Rubenrc27/Rubenrc27/output/github-snake-dark.svg" alt="Animación de la Serpiente" />
 </p>
